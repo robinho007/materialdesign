@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "cs639.pace.com.cs639mapsample"
         minSdkVersion 19
-        targetSdkVersion 20
+        targetSdkVersion 23
         versionCode 1
         versionName "1.0"
     }

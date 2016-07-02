@@ -53,7 +53,6 @@ public class MyActivity extends FragmentActivity implements LocationListener{
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        // https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyCYd61bMuLJGUkTEDItbXpPzuqWLP8EqI0
 
         getMenuInflater().inflate(R.menu.my, menu);
         return true;
